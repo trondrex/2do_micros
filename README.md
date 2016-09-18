@@ -1,5 +1,7 @@
 # 2DO PROYECTO MICROS
 
+## Proyecto por: Deimer Andres Morales, Juan camilo Montilla, Julio David Hernandez
+
 Iniciamos este proyecto haciendo una simulacion en proteus 
 sobre un monitor serial y usando la funcion serial
 
