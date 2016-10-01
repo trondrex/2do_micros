@@ -1,3 +1,4 @@
+#include"librerias/laberinto.h"
 char incomingByte=0;
 void setup() {
 Serial.begin(9600);
